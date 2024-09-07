@@ -1,0 +1,59 @@
+site_name: Haaglanden Roleplay
+theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: nl
+  palette:
+    - scheme: slate 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode    
+      primary: light green
+      accent: light green
+    - scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+      primary: light green
+      accent: light green
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/haaglandenrp
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@haaglanden.rolepl
+    - icon: fontawesome/solid/cart-shopping
+      link: https://store.haaglandenrp.nl
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+  &copy; 2023-2024 <a href="https://haaglandenrp.nl"  target="_blank" rel="noopener">Haaglanden Roleplay™</a>
