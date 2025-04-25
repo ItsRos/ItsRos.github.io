@@ -30,7 +30,7 @@
 
 ### Aanvullende Wetten en regels
 
-Aanvullend op de APV is er het Wetboek Haaglanden (WHGL), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Haaglanden Roleplay.</li>
+Aanvullend op de APV is er het Wetboek Zentaris (WHGL), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Zentaris Roleplay.</li>
 <li>In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.</li>
 <li>Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.</li>
 <li>Het Nederlands Recht is zodoende leidend, tenzij er een Wet of Bepaling is opgenomen in de WHGL. Dan is deze leidend.</li>
@@ -166,7 +166,7 @@ Informatie verkregen buiten het karakter om (alle informatie die niet verkregen 
 <li>Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.</li>
 <li>Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.</li>
 <li>Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.</li>
-<li>Wanneer je met meerdere mensen die op Haaglanden spelen in een voice call zit en/of streamen is toegestaan en maar je moet gedeafened en gemute zijn.</li>
+<li>Wanneer je met meerdere mensen die op Zentaris spelen in een voice call zit en/of streamen is toegestaan en maar je moet gedeafened en gemute zijn.</li>
 <li>Om een overvalscenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen. Dit dient echter altijd ondersteund te worden door middel van een in-game document.</li>
 <li>Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van Artikel 8.</li>
 
@@ -410,7 +410,7 @@ Stemherkenning is toegestaan, tenzij de persoon een voicechanger gebruikt of je 
 |6e overtreding| Categorie 5|
 
 ### Artikel 24 - Crimenele activiteiten
- 1. Het ontvoeren van iemand die indienst is met een overheidsbaan wanneer dit niet is toegestaan volgens de <a href="https://regels.haaglandenrp.nl/">Roleplay Regels</a>.<br>
+ 1. Het ontvoeren van iemand die indienst is met een overheidsbaan wanneer dit niet is toegestaan volgens de <a href="https://regels.Zentarisrp.nl/">Roleplay Regels</a>.<br>
  2. Het afpakken van items die gerelateerd zijn aan een overheidsbaan.<br>
  3. Het vermoorden van een speler die je ript maar die wel meewerkt. De reden "anders herkent de speler mij" is geen goede reden, dan moet je zorgen dat je een vermomming, masker en stemvervormer gebruikt wanneer je iemand gaat rippen.<br>
  4. Het actief campen van drugs- en criminele locaties met de intentie andere personen te rippen.<br>
