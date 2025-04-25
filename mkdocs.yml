@@ -1,4 +1,4 @@
-site_name: Haaglanden Roleplay
+site_name: Zentaris Roleplay
 theme:
   logo: assets/logo.png
   favicon: assets/logo.png
@@ -19,24 +19,24 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode    
-      primary: light green
-      accent: light green
+      primary: orange
+      accent: orange
     - scheme: default
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
-      primary: light green
-      accent: light green
+      primary: orange
+      accent: orange
 
 
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/haaglandenrp
+      link: https://discord.gg/zentarisrp
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@haaglanden.rolepl
     - icon: fontawesome/solid/cart-shopping
-      link: https://store.haaglandenrp.nl
+      link: https://store.zentaris.nl
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -56,4 +56,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2023-2024 <a href="https://haaglandenrp.nl"  target="_blank" rel="noopener">Haaglanden Roleplay™</a>
+  &copy; 2023-2024 <a href="https://zentaris.nl"  target="_blank" rel="noopener">Zentaris Roleplay™</a>
