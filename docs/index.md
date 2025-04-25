@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Wet- en Regelgeving Haaglanden Roleplay
+# Wet- en Regelgeving Zentaris Roleplay
 
 Welkom op de pagina voor de Wet- en Regelgeving van Haaglanden Roleplay!
 In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Haaglanden Roleplay.
